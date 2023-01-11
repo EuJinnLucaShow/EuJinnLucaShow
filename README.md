@@ -3,14 +3,15 @@
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning Full Stack Developer
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me <div id="badges">
+- 📫 How to reach me eujinnlucashow@gmail.com
+<div id="badges">
   <a href="https://www.linkedin.com/in/yevhenii-lukashov-756b01252">
     <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/EuJinnLucaShow/">
     <img src="https://img.shields.io/badge/-facebook-blue" alt="facebook Badge"/>
   </a>
-</div> eujinnlucashow@gmail.com
+</div> 
 
 <!---
 EuJinnLucaShow/EuJinnLucaShow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
