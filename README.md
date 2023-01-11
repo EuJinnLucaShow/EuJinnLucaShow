@@ -20,7 +20,6 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width ="25%"/>
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
-  <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width ="25%"/>
 </div>
 
 <div align="center">
