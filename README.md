@@ -2,7 +2,8 @@
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning Full Stack Developer
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me <div id="badges">
+<div id="badges">
+  - 📫 How to reach me 
   <a href="https://www.linkedin.com/in/yevhenii-lukashov-756b01252">
     <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn Badge"/>
   </a>
