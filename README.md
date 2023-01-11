@@ -9,5 +9,5 @@ EuJinnLucaShow/EuJinnLucaShow is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"/>
 </div>
