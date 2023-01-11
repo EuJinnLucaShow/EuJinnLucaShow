@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EuJinnLucaShow
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning Full Stack Developer
-- 💞️ I’m looking to collaborate on Google
+- 💞️ I’m looking to collaborate on <a href="https://www.google.com/" Google>
 - 📫 How to reach me eujinnlucashow@gmail.com
 
 <!---
