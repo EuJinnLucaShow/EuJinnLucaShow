@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
   </div>
+  
 - 👋 Hi, I’m @EuJinnLucaShow
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning Full Stack Developer
