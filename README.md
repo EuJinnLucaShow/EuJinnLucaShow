@@ -7,7 +7,8 @@
 - 🌱 I’m currently learning Full Stack Developer
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me eujinnlucashow@gmail.com
-    <a href="https://www.linkedin.com/in/yevhenii-lukashov-756b01252">
+
+   <a href="https://www.linkedin.com/in/yevhenii-lukashov-756b01252">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
   </a>
   <a href="https://www.facebook.com/EuJinnLucaShow/">
