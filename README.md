@@ -1,3 +1,5 @@
+<a href="https://vshymanskyy.github.io/StandWithUkraine" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg" alt="SWUbanner" style="max-width: 100%;"></a>
+
 <p align="center">It's My Life  </p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
