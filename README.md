@@ -56,3 +56,5 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;   
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuJinnLucaShow&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
