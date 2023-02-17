@@ -12,7 +12,7 @@ You have stayed on my page for:
   </div>
 <a href="https://vshymanskyy.github.io/StandWithUkraine" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg" alt="SWUbanner" style="max-width: 100%;"></a>
 
-<h2 align="center">It's My Life  </h2>
+<h3 align="center">It's My Life  </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
   </div>
