@@ -7,10 +7,8 @@ You have stayed on my page for:
 <a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
 </p>
   
-  <h1>
-    Hey there, I'm Yevhenii Lukashov!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
+<h3 align="center">Just A Student</h3>
   </div>
 <a href="https://vshymanskyy.github.io/StandWithUkraine" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg" alt="SWUbanner" style="max-width: 100%;"></a>
 
