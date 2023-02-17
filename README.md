@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="32px; display: inline-block;" data-target="animated-image.originalImage">
-
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="100%; display: inline-block;" data-target="animated-image.originalImage"> I'm EuJinn LucaShow
 
 <a href="https://vshymanskyy.github.io/StandWithUkraine" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg" alt="SWUbanner" style="max-width: 100%;"></a>
 
