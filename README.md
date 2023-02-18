@@ -13,7 +13,6 @@ You have stayed on my page for:
 <h3 align="center">Just A Student</h3>
   </div>
   
-<h3 align="center">It's My Life  </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
   </div>
