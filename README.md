@@ -1,9 +1,9 @@
+<a href="https://vshymanskyy.github.io/StandWithUkraine" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg" alt="SWUbanner" style="max-width: 100%;"></a>
+
 <div id="header" align="center">
   <p align="center">
 You have stayed on my page for:
 </p>
-
-<a href="https://vshymanskyy.github.io/StandWithUkraine" rel="nofollow"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg" alt="SWUbanner" style="max-width: 100%;"></a>
   
   <p align="center">
 <a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
