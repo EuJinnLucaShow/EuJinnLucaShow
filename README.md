@@ -20,7 +20,7 @@ You have stayed on my page for:
   
 - 👀 I’m interested in **computer programming & coding**
 - 🌱 I’m currently learning **Full Stack Developer**
-- 💞️ I’m looking to collaborate on **Google**
+- 💞️ I’m looking to collaborate with **Google**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
 
    <a href="https://www.linkedin.com/in/yevhenii-lukashov-756b01252">
