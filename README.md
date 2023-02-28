@@ -66,7 +66,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://www.ag-grid.com/images/fw-logos/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="CodePen" alt="CodePen" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://browsersl.ist/browserlist-e428d541.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
 </div>
 
 ---
