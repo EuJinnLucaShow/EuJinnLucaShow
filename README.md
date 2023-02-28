@@ -18,7 +18,7 @@ You have stayed on my page for:
   </div>
   
 - 👋 Hi, I’m **@EuJinnLucaShow**
-- 👀 I’m interested in **computer programming**
+- 👀 I’m interested in **computer programming & coding**
 - 🌱 I’m currently learning **Full Stack Developer**
 - 💞️ I’m looking to collaborate on **Google**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
