@@ -17,11 +17,11 @@ You have stayed on my page for:
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
   </div>
   
-- 👋 Hi, I’m **@EuJinnLucaShow
-- 👀 I’m interested in **computer programming
-- 🌱 I’m currently learning **Full Stack Developer
-- 💞️ I’m looking to collaborate on **Google
-- 📫 How to reach me **eujinnlucashow@gmail.com
+- 👋 Hi, I’m **@EuJinnLucaShow**
+- 👀 I’m interested in **computer programming**
+- 🌱 I’m currently learning **Full Stack Developer**
+- 💞️ I’m looking to collaborate on **Google**
+- 📫 How to reach me **eujinnlucashow@gmail.com**
 
    <a href="https://www.linkedin.com/in/yevhenii-lukashov-756b01252">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>
