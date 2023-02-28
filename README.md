@@ -19,7 +19,7 @@ You have stayed on my page for:
   
   
 - 👀 I’m interested in **computer programming & coding**
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **HTML & CSS, JS, React, Node.js**
 - 💞️ I’m looking to collaborate with **Google**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
 
