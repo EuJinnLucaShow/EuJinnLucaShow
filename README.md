@@ -17,7 +17,6 @@ You have stayed on my page for:
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
   </div>
   
-- 👋 Hi, I’m **@EuJinnLucaShow**
 - 👀 I’m interested in **computer programming & coding**
 - 🌱 I’m currently learning **Full Stack Developer**
 - 💞️ I’m looking to collaborate on **Google**
