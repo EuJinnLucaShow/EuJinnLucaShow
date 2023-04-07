@@ -16,7 +16,7 @@ You have stayed on my page for:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
   </div>
-  [![Profile badge](https://www.codewars.com/users/EuJinnLucaShow/badges/small)](https://www.codewars.com/users/EuJinnLucaShow)
+  [![Profile badge](https://www.codewars.com/users/EuJinnLucaShow/badges/large)](https://www.codewars.com/users/EuJinnLucaShow)
 
   
 - 👀 I’m interested in **computer programming & coding**
