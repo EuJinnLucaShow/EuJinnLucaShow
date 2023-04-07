@@ -14,9 +14,9 @@ You have stayed on my page for:
   </div>
   
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/>
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/><br>  
+  <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
   </div>
-  [![Profile badge](https://www.codewars.com/users/EuJinnLucaShow/badges/large)](https://www.codewars.com/users/EuJinnLucaShow)
 
   
 - 👀 I’m interested in **computer programming & coding**
