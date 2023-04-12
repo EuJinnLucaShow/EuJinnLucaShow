@@ -17,14 +17,7 @@ You have stayed on my page for:
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/><br>  
   <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
   </div>
-
   
-- 👀 I’m interested in **computer programming & coding**
-- 🌱 I’m currently learning **HTML & CSS, JS, React, Node.js**
-- 💞️ I’m looking to collaborate with **Google**
-- 📫 How to reach me **eujinnlucashow@gmail.com**
-  
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width ="25%"/>
   </div>
@@ -32,8 +25,12 @@ You have stayed on my page for:
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=EuJinnLucaShow&style=flat-square&color=blue" alt="" align="center"/>
 </div>
-
-
+  
+- 👀 I’m interested in **computer programming & coding**
+- 🌱 I’m currently learning **HTML & CSS, JS, React, Node.js**
+- 💞️ I’m looking to collaborate with **Google**
+- 📫 How to reach me **eujinnlucashow@gmail.com**
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
