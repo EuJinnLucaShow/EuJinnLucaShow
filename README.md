@@ -18,9 +18,7 @@ You have stayed on my page for:
   <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
   </div>
 <br>
-  <br>
-  <br>
-
+  
 - 👀 I’m interested in **computer programming & coding**
 - 🌱 I’m currently learning **HTML & CSS, JS, React, Node.js**
 - 💞️ I’m looking to collaborate with **Google**
