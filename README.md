@@ -20,7 +20,7 @@ You have stayed on my page for:
 <br>
   
 - 👀 I’m interested in **computer programming & coding**
-- 🌱 I’m currently learning **HTML & CSS, JS, React, Node.js**
+- 🌱 I’m currently learning **HTML5, CSS3, SASS, GIT, JavaScript, React, Redux, REST API, Handlebars, Webpack, Parcel, Node.js, MongoDB.**
 - 💞️ I’m looking to collaborate with **Google**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
   
