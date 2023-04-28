@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D4D16AQF_NR8XSME0Qg/profile-displaybackgroundimage-shrink_350_1400/0/1682577127100?e=1687996800&v=beta&t=rQfiZalf_pXWEmxw_z0d0WKHEeEZV70LoZPm66H0qG4">
+
 <div align="center">
   <p align="center">
 You have stayed on my page for:
