@@ -1,4 +1,4 @@
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/Personal%20LinkedIn%20Banner 2.png">
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/GitHub.png">
 
 <div align="center">
   <h3 align="center">
