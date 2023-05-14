@@ -25,7 +25,7 @@ You have stayed on my page for:
 - 📫 How to reach me **eujinnlucashow@gmail.com**
   
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width ="25%"/>
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" width ="25%"/>
   </div>
 
 <div align="center">
@@ -53,7 +53,7 @@ You have stayed on my page for:
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/parsel.avif" title="Parcel" alt="Parcel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/parsel.avif" title="Parcel" alt="Parcel" width="50" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/codepen-plain.svg" title="CodePen" alt="CodePen" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
