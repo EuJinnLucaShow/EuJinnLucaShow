@@ -21,7 +21,7 @@ You have stayed on my page for:
   
 - 👀 I’m interested in **computer programming & coding**
 - 🌱 I’m currently learning **HTML5, CSS3, SASS, GIT, JavaScript, React, Redux, REST API, Webpack, Parcel, Node.js, MongoDB.**
-- 💞️ I’m looking to collaborate with **Google, Microsoft, Netflix, IBM, Meta**
+- 💞️ I’m looking to collaborate with **Google, Microsoft, IBM, Meta**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
   
 <div align="center">
