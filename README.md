@@ -61,6 +61,9 @@ You have stayed on my page for:
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/brouslist.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
 ---
