@@ -32,7 +32,10 @@ You have stayed on my page for:
 <img src="https://komarev.com/ghpvc/?username=EuJinnLucaShow&style=flat-square&color=blue" alt="" align="center"/>
 </div>
   
-
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="chrome-extension://njdepodpfikogbbmjdbebneajdekhiai/images/snipp4.svg" />
+</picture>
   
 ---
 
@@ -72,3 +75,9 @@ You have stayed on my page for:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EuJinnLucaShow&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
