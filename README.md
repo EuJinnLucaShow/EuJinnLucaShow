@@ -19,7 +19,7 @@ You have stayed on my page for:
   </div>
 <br>
   
-- 👀 I’m interested in **computer programming & coding**
+- 👀 I’m interested in **computer programming & development**
 - 🌱 I’m currently learning **JavaScript, React, Node.js**
 - 💞️ I’m looking to collaborate with **Google, Microsoft, Meta**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
