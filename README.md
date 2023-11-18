@@ -31,10 +31,8 @@ You have stayed on my page for:
 <div align="center">
 <a href="https://u8views.com/github/EuJinnLucaShow"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
 </div>
----
 
 ### :hammer_and_wrench: Languages and Tools :
-
 
 <div>
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -63,10 +61,9 @@ You have stayed on my page for:
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
----
-  <div align="center">
-<p align="center">🔥 Streak Stats</p>
 
+<div align="center">
+<p align="center">🔥 Streak Stats</p>
+    
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EuJinnLucaShow&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
-
