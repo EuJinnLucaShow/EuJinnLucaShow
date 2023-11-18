@@ -26,8 +26,11 @@ You have stayed on my page for:
   
 <div align="center">
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" width ="25%"/>
-  </div>
-  
+   </div>
+   ㅤㅤㅤㅤㅤㅤㅤㅤ
+<div align="center">
+<a href="https://u8views.com/github/EuJinnLucaShow"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -60,8 +63,6 @@ You have stayed on my page for:
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
-
-[![Yevhenii Lukashov profile views](https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg)](https://u8views.com/github/EuJinnLucaShow)
 ---
   <div align="center">
 <p align="center">🔥 Streak Stats</p>
