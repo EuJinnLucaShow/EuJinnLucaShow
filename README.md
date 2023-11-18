@@ -27,10 +27,6 @@ You have stayed on my page for:
 <div align="center">
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" width ="25%"/>
   </div>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=EuJinnLucaShow&style=flat-square&color=blue" alt="" align="center"/>
-</div>
   
 ---
 
