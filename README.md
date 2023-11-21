@@ -23,14 +23,6 @@ You have stayed on my page for:
 - 🌱 I’m currently learning **JavaScript, React, Node.js**
 - 💞️ I’m looking to collaborate with **Google, Microsoft, Meta**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
-  
-<div align="center">
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" width ="25%"/>
-   </div>
-   ㅤㅤㅤㅤㅤㅤㅤㅤ
-<div align="center">
-<a href="https://u8views.com/github/EuJinnLucaShow"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
-</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -64,7 +56,9 @@ You have stayed on my page for:
 </div>
 
 <div align="center">
-<p align="center">🔥 Streak Stats</p>
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EuJinnLucaShow&theme=dark&background=000000)](https://git.io/streak-stats)
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" width ="25%"/>
+   </div>
+   ㅤㅤㅤㅤㅤㅤㅤㅤ
+<div align="center">
+<a href="https://u8views.com/github/EuJinnLucaShow"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
 </div>
