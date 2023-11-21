@@ -60,6 +60,7 @@ You have stayed on my page for:
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
 </div>
 
 <div align="center">
