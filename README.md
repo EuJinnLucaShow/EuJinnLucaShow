@@ -1,3 +1,4 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/GitHub.png">
 
 <div align="center">
@@ -8,8 +9,7 @@ You have stayed on my page for:
   <p align="center">
 <a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
 </p>
-  
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
+
 <h3 align="center">www.codewars.com 👌</h3>
   </div>
   
