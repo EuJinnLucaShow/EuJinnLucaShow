@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/GitHub.png">
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/githublogo.png">
 
 <div align="center">
   <h3 align="center">
