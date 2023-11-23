@@ -1,3 +1,4 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/GitHub.png">
 
 <div align="center">
@@ -8,8 +9,7 @@ You have stayed on my page for:
   <p align="center">
 <a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
 </p>
-  
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
+
 <h3 align="center">www.codewars.com 👌</h3>
   </div>
   
@@ -23,14 +23,6 @@ You have stayed on my page for:
 - 🌱 I’m currently learning **JavaScript, React, Node.js**
 - 💞️ I’m looking to collaborate with **Google, Microsoft, Meta**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
-  
-<div align="center">
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" width ="25%"/>
-   </div>
-   ㅤㅤㅤㅤㅤㅤㅤㅤ
-<div align="center">
-<a href="https://u8views.com/github/EuJinnLucaShow"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
-</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -60,10 +52,13 @@ You have stayed on my page for:
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
 </div>
 
 <div align="center">
-<p align="center">🔥 Streak Stats</p>
-    
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EuJinnLucaShow&theme=dark&background=000000)](https://git.io/streak-stats)
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" width ="25%"/>
+   </div>
+   ㅤㅤㅤㅤㅤㅤㅤㅤ
+<div align="center">
+<a href="https://u8views.com/github/EuJinnLucaShow"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
 </div>
