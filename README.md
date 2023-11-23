@@ -1,23 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/GitHub.png">
-
-<div align="center">
-  <h3 align="center">
-You have stayed on my page for:
-</h3>
-  
-  <p align="center">
-<a href="https://github.com/tomchen/animated-svg-clock" title="Animated SVG clock"><img src="https://github.com/tomchen/animated-svg-clock/raw/master/clock.svg" alt="Clock" width="200px" height="200px"></a>
-</p>
-
-<h3 align="center">www.codewars.com 👌</h3>
-  </div>
-  
-<div align="center">  
-  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="25%"/><br>  
-  <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
-  </div>
-<br>
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/githublogo.png">
   
 - 👀 I’m interested in **computer programming & development**
 - 🌱 I’m currently learning **JavaScript, React, Node.js**
@@ -56,8 +38,12 @@ You have stayed on my page for:
 </div>
 
 <div align="center">
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" width ="25%"/>
-   </div>
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif" width ="25%"/> 
+  </div>
+       ㅤㅤㅤㅤ
+    <div align="center">  
+  <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
+  </div>
    ㅤㅤㅤㅤㅤㅤㅤㅤ
 <div align="center">
 <a href="https://u8views.com/github/EuJinnLucaShow"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
