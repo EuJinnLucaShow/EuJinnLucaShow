@@ -22,6 +22,7 @@
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Typescript_logo_2020.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+    <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/parsel.avif" title="Parcel" alt="Parcel" width="50" height="40"/>&nbsp;
