@@ -36,6 +36,9 @@
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
 <div align="center">
