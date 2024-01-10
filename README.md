@@ -39,6 +39,7 @@
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mariadb.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
 </div>
 
 <div align="center">
