@@ -33,8 +33,7 @@
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Vue.js.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/brouslist.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;    
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
