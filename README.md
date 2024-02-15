@@ -42,7 +42,7 @@
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mariadb.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Atlassian.svg" title="Atlassian" alt="Atlassian" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/trello.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Bitbucket.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;    
 </div>
