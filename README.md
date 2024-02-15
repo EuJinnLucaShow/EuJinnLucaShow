@@ -3,7 +3,7 @@
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/blockhero.png">
   
 - 👀 I’m interested in **computer programming & development**
-- 🌱 I’m currently learning **JavaScript, React, Node.js**
+- 🌱 I’m currently learning **JavaScript, React, Angular, Vue.js, Node.js**
 - 💞️ I’m looking to collaborate with **Google, Microsoft, Meta**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
 
