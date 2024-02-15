@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
-<h3 align="center">I really love web development and exploring new technology stacks.</h3>
+<h3 align="center">Designing the code that shapes the world of innovation.</h3>
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/blockhero.png">
   
 - 👀 I’m interested in **computer programming & development**
