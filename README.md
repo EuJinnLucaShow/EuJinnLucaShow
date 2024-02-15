@@ -45,6 +45,7 @@
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Atlassian.svg" title="Atlassian" alt="Atlassian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Bitbucket.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Vue.js.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 </div>
 
 <div align="center">
