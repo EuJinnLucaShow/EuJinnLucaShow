@@ -4,7 +4,7 @@
   
 - 👀 I’m interested in **computer programming & development**
 - 🌱 I’m currently learning **JavaScript, React, Angular, Vue.js, Node.js**
-- 💞️ I’m looking to collaborate with **Google, Microsoft, Meta, EPAM Systems, Ciklum, 	
+- 💞️ I’m looking to collaborate with **Google, Microsoft, Meta Platforms, EPAM Systems, Ciklum, 	
 SoftServe, GlobalLogic, Ajax Systems**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
 
