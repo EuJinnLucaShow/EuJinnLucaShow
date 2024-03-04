@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
 <h3 align="center">Designing the code that shapes the world of innovation.</h3>
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/section.jpg">
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/sections.jpg">
   
 - 👀 I’m interested in **computer programming & development**
 - 🌱 I’m currently learning **JavaScript, React, Angular, Vue.js, Node.js**
