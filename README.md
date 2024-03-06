@@ -8,21 +8,6 @@
 SoftServe**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
 
-### :hammer_and_wrench: Languages and Tools:
-
-<div>  
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/git-original.svg" title="Git" \*\*alt="Git" width="40" height="40"/>&nbsp;  
- <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/bem-original.svg" title="methodology BEM" alt="methodology BEM" width="40" height="40"/>&nbsp;
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
- <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;  
- <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mariadb.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
-
-</div>
-
 ### ⚙️ Services and application:
 
 <div>
@@ -36,6 +21,9 @@ SoftServe**
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/trello.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Bitbucket.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/git-original.svg" title="Git" \*\*alt="Git" width="40" height="40"/>&nbsp;  
+ <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🌐 Programming languages:
@@ -83,6 +71,7 @@ SoftServe**
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/bem-original.svg" title="methodology BEM" alt="methodology BEM" width="40" height="40"/>&nbsp;
 </div>
 
 ### 💅 CSS framework:
@@ -103,6 +92,16 @@ SoftServe**
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/parsel.avif" title="Parcel" alt="Parcel" width="50" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+</div>
+
+### 🗄️ Database management system:
+
+<div>
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;  
+ <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mariadb.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
 </div>
 
 <div align="center">
