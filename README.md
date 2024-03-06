@@ -67,7 +67,7 @@ SoftServe**
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
 </div>
 
-### :Nail Polish: CSS framework:
+### 💅 CSS framework:
 
 <div>
    <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
