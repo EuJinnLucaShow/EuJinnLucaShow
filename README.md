@@ -20,7 +20,6 @@ SoftServe**
  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/bem-original.svg" title="methodology BEM" alt="methodology BEM" width="40" height="40"/>&nbsp;
-
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;  
  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
@@ -46,7 +45,7 @@ SoftServe**
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Typescript_logo_2020.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
 
-### :keyboard: Runtime environment:
+### ⚗️ Runtime environment:
 
 <div>
  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp; 
