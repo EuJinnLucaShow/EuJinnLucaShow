@@ -85,7 +85,7 @@ SoftServe**
    <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
 </div>
 
-### 🗃️ Package managers:
+### 🧰 Package managers:
 
 <div>
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
