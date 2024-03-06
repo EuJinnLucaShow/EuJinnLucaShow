@@ -60,13 +60,13 @@ SoftServe**
 <div>
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Vue.js.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 </div>
 
 ### :hammer_and_wrench: Web framework:
 
 <div>
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Vue.js.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/next-js.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
 </div>
 
