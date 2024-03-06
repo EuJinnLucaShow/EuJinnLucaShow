@@ -68,6 +68,7 @@ SoftServe**
 <div>
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/next-js.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/expressjs.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
 </div>
 
 ### :memo: Related technologies:
