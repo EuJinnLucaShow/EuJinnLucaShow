@@ -19,7 +19,7 @@ SoftServe**
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/git-original.svg" title="Git" \*\*alt="Git" width="40" height="40"/>&nbsp;  
  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/bem-original.svg" title="methodology BEM" alt="methodology BEM" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Vue.js.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
@@ -71,6 +71,12 @@ SoftServe**
 
 <div>
    <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+</div>
+
+### 🗃️ Package managers:
+
+<div>
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 </div>
 
 ### :package: Module bundlers:
