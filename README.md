@@ -76,6 +76,7 @@ SoftServe**
 <div>
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/DOM.svg" title="Document Object Model (DOM)" alt="Document Object Model (DOM)" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/bem-original.svg" title="methodology BEM" alt="methodology BEM" width="40" height="40"/>&nbsp;
 </div>
 
