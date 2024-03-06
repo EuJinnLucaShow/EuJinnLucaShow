@@ -27,9 +27,6 @@ SoftServe**
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/bem-original.svg" title="methodology BEM" alt="methodology BEM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Typescript_logo_2020.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/parsel.avif" title="Parcel" alt="Parcel" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Vue.js.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
@@ -47,6 +44,14 @@ SoftServe**
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/trello.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Jira.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Bitbucket.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;    
+</div>
+
+### :screwdriver: Module bundlers:
+
+<div>
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/parsel.avif" title="Parcel" alt="Parcel" width="50" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
 </div>
 
 <div align="center">
