@@ -89,6 +89,7 @@ SoftServe**
 
 <div>
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/yarn.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
 </div>
 
 ### :package: Module bundlers:
