@@ -71,6 +71,7 @@ SoftServe**
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/next-js.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/expressjs.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/i18next.svg" title="i18next" alt="i18next" width="40" height="40"/>&nbsp;
+<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/flutter.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </div>
 
 ### :memo: Related technologies:
