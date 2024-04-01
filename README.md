@@ -37,6 +37,7 @@ SoftServe**
 <div>
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/C++.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Dart.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🗜️ Supersets:
