@@ -56,6 +56,7 @@ SoftServe**
 
 <div>
    <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Visual_Studio_Icon_2022.svg" title="Microsoft Visual Studio" alt="Microsoft Visual Studio" width="40" height="40"/>&nbsp;
 </div>
 
 ### 📚 JavaScript library:
