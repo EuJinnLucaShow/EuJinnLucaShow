@@ -2,7 +2,7 @@
 <h3 align="center">Designing the code that shapes the world of innovation.</h3>
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/sections.jpg">
   
-- 👀 I’m interested in **computer programming & development**
+- 👀 I’m interested in **Keep Coding: Programming / Learning / Mastering / Tutorials**
 - 🌱 I’m currently learning **JavaScript, React, Node.js, Dart, Flutter**
 - 💞️ I’m looking to collaborate with **Google LLC, Microsoft, Meta Platforms, EPAM Systems, Ciklum, GlobalLogic, 	
 SoftServe**
