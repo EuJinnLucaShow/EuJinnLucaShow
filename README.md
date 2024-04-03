@@ -67,7 +67,7 @@ SoftServe**
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Vue.js.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
 </div>
 
-### :hammer_and_wrench: Framework:
+### :hammer_and_wrench: Software framework:
 
 <div>
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/angular.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
