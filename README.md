@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
-<h3 align="center">Helping businesses earn more money.</h3>
+<h3 align="center">💵 Helping businesses earn more money. 💵</h3>
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/sections.jpg">
   
 - 👀 I’m interested in **Keep Coding: Programming / Learning / Mastering / Tutorials**
