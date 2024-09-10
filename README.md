@@ -92,7 +92,8 @@ SoftServe**
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/styled-components.png" title="styled-components" alt="styled-components" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/emotion.png" title="emotion/css" alt="emotion/css" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp; 
+      <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Bootstrap_logo.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🧰 Package managers:
