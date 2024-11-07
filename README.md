@@ -3,7 +3,7 @@
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/sections.jpg">
   
 - 👀 I’m interested in **Keep Coding: Programming / Learning / Mastering / Tutorials**
-- 🌱 I’m currently learning **JavaScript, React, Node.js, Dart, Flutter**
+- 🌱 I’m currently learning **JavaScript, React, Node.js**
 - 💞️ I’m looking to collaborate with **Google LLC, Microsoft, Meta Platforms, EPAM Systems, Ciklum, GlobalLogic, 	
 SoftServe**
 - 📫 How to reach me **eujinnlucashow@gmail.com**
