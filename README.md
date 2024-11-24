@@ -2,10 +2,18 @@
 <h3 align="center">A thousand lines of code 💻</h3>
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/sections.jpg">
   
-- 👀 I’m interested in **Keep Coding: Programming / Learning / Mastering / Tutorials**
-- 🌱 I’m currently learning **JavaScript, React, Node.js**
-- 💞️ I’m looking to collaborate with **Google LLC, Microsoft, Meta Platforms, EPAM Systems, Ciklum, GlobalLogic, 	
-SoftServe**
+👀 **Interests:**  
+- Constantly coding and improving: Programming, learning, mastering new skills, and creating tutorials.
+
+🌱 **Currently learning:**  
+- JavaScript  
+- React  
+- Node.js  
+
+💼 **Looking to collaborate with:**  
+- Global tech leaders: Google, Microsoft, Meta.  
+- Leading IT companies: EPAM Systems, Ciklum, GlobalLogic, SoftServe.  
+
 - 📫 How to reach me **eujinnlucashow@gmail.com**
 
 ### ⚙️ Services and application:
