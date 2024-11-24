@@ -2,14 +2,6 @@
 <h3 align="center">A thousand lines of code 💻</h3>
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/sections.jpg">
   
-👀 **Interests:**  
-- Constantly coding and improving: Programming, learning, mastering new skills, and creating tutorials.
-
-🌱 **Currently learning:**  
-- JavaScript  
-- React  
-- Node.js  
-
 💼 **Looking to collaborate with:**  
 - Global tech leaders: Google, Microsoft, Meta.  
 - Leading IT companies: EPAM Systems, Ciklum, GlobalLogic, SoftServe.  
