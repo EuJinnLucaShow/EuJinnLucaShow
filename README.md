@@ -3,8 +3,8 @@
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/sections.jpg">
   
 💼 **Looking to collaborate with:**  
-- Global tech leaders: Google, Microsoft, Meta.  
-- Leading IT companies: EPAM Systems, Ciklum, GlobalLogic, SoftServe.  
+- Global tech leaders: **Google**, **Microsoft**, **Meta**.  
+- Leading IT companies: **EPAM Systems**, **Ciklum**, **GlobalLogic**, **SoftServe**.  
 
 📫 How to reach me **eujinnlucashow@gmail.com**
 
