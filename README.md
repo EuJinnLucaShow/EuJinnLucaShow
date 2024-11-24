@@ -14,7 +14,7 @@
 - Global tech leaders: Google, Microsoft, Meta.  
 - Leading IT companies: EPAM Systems, Ciklum, GlobalLogic, SoftServe.  
 
-- 📫 How to reach me **eujinnlucashow@gmail.com**
+📫 How to reach me **eujinnlucashow@gmail.com**
 
 ### ⚙️ Services and application:
 
