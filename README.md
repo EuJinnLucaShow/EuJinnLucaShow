@@ -2,12 +2,6 @@
 <h3 align="center">Never stop learning because life never stops teaching</h3>
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/sections.jpg">
   
-💼 **Looking to collaborate with:**  
-- Global tech leaders: **Google**, **Microsoft**, **Meta**.  
-- Leading IT companies: **EPAM Systems**, **Ciklum**, **GlobalLogic**, **SoftServe**.  
-
-📫 How to reach me **eujinnlucashow@gmail.com**
-
 ### ⚙️ Services and application:
 
 <div>
