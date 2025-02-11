@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
-<h3 align="center">I am expanding my JavaScript skills by working on a personal project and improving my English proficiency through online courses.</h3>
+<h3 align="center">I`m expanding my JavaScript skills by working on an e-commerce project (MERN stack) and improving my English proficiency through online courses.</h3>
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/sections.jpg">
   
 ### ⚙️ Services and application:
