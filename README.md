@@ -81,7 +81,7 @@
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/bem-original.svg" title="methodology BEM" alt="methodology BEM" width="40" height="40"/>&nbsp;
 </div>
 
-### 💅 SassScript & CSS framework & CSS in JS:
+### 💅 SassScript & CSS framework & CSS-in-JS:
 
 <div>
  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/CSS Modules.png" title="CSS Modules" alt="CSS Modules" width="49" height="40"/>&nbsp;
