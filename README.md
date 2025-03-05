@@ -84,7 +84,7 @@
 ### 💅 SassScript & CSS framework & library:
 
 <div>
- <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/CSS Modules.png" title="CSS Modules" alt="CSS Modules" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/CSS Modules.png" title="CSS Modules" alt="CSS Modules" width="49" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/styled-components.png" title="styled-components" alt="styled-components" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/emotion.png" title="emotion/css" alt="emotion/css" width="40" height="40"/>&nbsp;
