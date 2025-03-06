@@ -1,6 +1,23 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
 <h3 align="center">I`m expanding my JavaScript skills by working on an e-commerce project (MERN stack) and improving my English proficiency through online courses.</h3>
-<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/sections.jpg">
+
+### GitHub Stats :
+
+<table align="center">
+  <tr>
+  <td>
+  <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api?username=EuJinnLucaShow&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yevhenii Lukashov github stats" />
+  </td>
+  <td>
+  <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api/top-langs/?username=EuJinnLucaShow&layout=compact&theme=buefy&hide_border=true" />
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2 align="center">
+  <img src="https://github-readme-streak-stats-alpha-eosin.vercel.app?user=EuJinnLucaShow" alt="GitHub Streak" />
+  </td>
+  </tr>
+  </table>
   
 ### ⚙️ Services and application:
 
@@ -116,24 +133,6 @@
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;  
  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mariadb.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
 </div>
-
-### GitHub Stats :
-
-<table align="center">
-  <tr>
-  <td>
-  <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api?username=EuJinnLucaShow&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yevhenii Lukashov github stats" />
-  </td>
-  <td>
-  <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api/top-langs/?username=EuJinnLucaShow&layout=compact&theme=buefy&hide_border=true" />
-  </td>
-  </tr>
-  <tr>
-  <td colspan=2 align="center">
-  <img src="https://github-readme-streak-stats-alpha-eosin.vercel.app?user=EuJinnLucaShow" alt="GitHub Streak" />
-  </td>
-  </tr>
-  </table>
        ㅤㅤㅤㅤ
     <div align="center">  
   <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
