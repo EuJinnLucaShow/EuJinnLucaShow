@@ -15,7 +15,7 @@
   </tr>
   <tr>
   <td colspan=2 align="center">
-  <img src="https://github-readme-streak-stats-alpha-eosin.vercel.app?user=EuJinnLucaShow" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-alpha-eosin.vercel.app?user=EuJinnLucaShow=&theme=dark" alt="GitHub Streak" />
   </td>
   </tr>
   </table>
