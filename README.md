@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
-<div>  
-<h3 width="500px">I`m expanding my JavaScript skills by working on an e-commerce project (MERN stack) and improving my English proficiency through online courses.</h3>
-</div>
+<h3>I`m expanding my JavaScript skills by working on an e-commerce project (MERN stack) and improving my English proficiency through online courses.</h3>
 
 ### GitHub Stats :
 
