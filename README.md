@@ -130,7 +130,7 @@
   </tr>
   <tr>
   <td colspan=2 align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-alpha-eosin.vercel.app?user=EuJinnLucaShow" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats-alpha-eosin.vercel.app?user=EuJinnLucaShow" alt="GitHub Streak" />
   </td>
   </tr>
   </table>
