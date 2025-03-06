@@ -122,7 +122,7 @@
 <table align="center">
   <tr>
   <td>
-  <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app?username=EuJinnLucaShow&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yevhenii Lukashov github stats" />
+  <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api?username=EuJinnLucaShow&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yevhenii Lukashov github stats" />
   </td>
   <td>
   <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api/top-langs/?username=EuJinnLucaShow&layout=compact&theme=buefy&hide_border=true" />
