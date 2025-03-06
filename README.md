@@ -18,6 +18,14 @@
   </td>
   </tr>
   </table>
+
+  <div align="center">  
+  <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
+  </div>
+   ㅤㅤㅤㅤㅤㅤㅤㅤ
+  <div align="center">
+  <a href="https://u8views.com/github/EuJinnLucaShow"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
+  </div>
   
 ### ⚙️ Services and application:
 
@@ -132,12 +140,4 @@
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;  
  <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mariadb.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>&nbsp;
-</div>
-       ㅤㅤㅤㅤ
-    <div align="center">  
-  <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
-  </div>
-   ㅤㅤㅤㅤㅤㅤㅤㅤ
-<div align="center">
-<a href="https://u8views.com/github/EuJinnLucaShow"><img src="https://u8views.com/api/v1/github/profiles/115802889/views/day-week-month-total-count.svg"></a>
-</div>
+</div> 
