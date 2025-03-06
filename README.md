@@ -122,10 +122,10 @@
 <table align="center">
   <tr>
   <td>
-  <a href="https://github.com/EuJinnLucaShow/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EuJinnLucaShow&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yevhenii Lukashov github stats" /></a>
+  <a href="https://github.com/EuJinnLucaShow/github-readme-stats"><img align="center" src="github-readme-stats-five-ashen-30.vercel.app?username=EuJinnLucaShow&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yevhenii Lukashov github stats" /></a>
   </td>
   <td>
-  <a href="https://github.com/EuJinnLucaShow/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuJinnLucaShow&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/EuJinnLucaShow/github-readme-stats"><img align="center" src="github-readme-stats-five-ashen-30.vercel.app/api/top-langs/?username=EuJinnLucaShow&layout=compact&theme=buefy&hide_border=true" /></a>
   </td>
   </tr>
   <tr>
