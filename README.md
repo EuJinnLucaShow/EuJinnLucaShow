@@ -4,21 +4,15 @@
 
 ### GitHub Stats :
 
-<table align="center">
-  <tr>
-  <td>
-  <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api?username=EuJinnLucaShow&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Yevhenii Lukashov github stats" />
-  </td>
-  <td>
+<div align="center">  
+  <div>
+  <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api?username=EuJinnLucaShow&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Yevhenii Lukashov github stats" />  
   <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api/top-langs/?username=EuJinnLucaShow&layout=compact&theme=dark&hide_border=true" />
-  </td>
-  </tr>
-  <tr>
-  <td colspan=2 align="center">
+  </div>
+  <div>
   <img src="https://github-readme-streak-stats-alpha-eosin.vercel.app?user=EuJinnLucaShow=&theme=dark" alt="GitHub Streak" />
-  </td>
-  </tr>
-  </table>
+  </div>  
+  </div>
 
   <div align="center">  
   <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
