@@ -8,7 +8,7 @@
   <div>
   <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api?username=EuJinnLucaShow&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Yevhenii Lukashov github stats" />  
   <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api/top-langs/?username=EuJinnLucaShow&layout=compact&theme=dark&hide_border=true" />
-  </div>
+  </div>  
   <div>
   <img src="https://github-readme-streak-stats-alpha-eosin.vercel.app?user=EuJinnLucaShow=&theme=dark" alt="GitHub Streak" />
   </div>  
