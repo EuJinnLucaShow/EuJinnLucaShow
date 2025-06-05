@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
 <h3 align="center">🎓 Always learning!</h3>
-<h3>I am actively enhancing my JavaScript expertise by developing an e-commerce platform with the MERN stack, while simultaneously advancing my English language proficiency through structured online courses.</h3>
+<h3>Focused on developing user-friendly web applications with clean code and engaging UX.</h3>
 
 ### GitHub Stats :
 
