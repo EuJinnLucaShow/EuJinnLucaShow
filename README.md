@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
 <h3 align="center">🎓 Always learning!</h3>
-<h3 align="center">Focused on developing user-friendly web applications with clean code and engaging UX.</h3>
+<h3 align="center">Full-stack developer building user-friendly web applications with clean code and thoughtful UX.</h3>
 
 ### GitHub Stats :
 
