@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
 <h3 align="center">🎓 Forever curious! Crafting intuitive web apps with clean code, robust backend, and engaging UX.</h3>
-
+<br>
 <div align="center">
   <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api/top-langs/?username=EuJinnLucaShow&layout=compact&theme=dark&hide_border=true" />
   <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api?username=EuJinnLucaShow&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Yevhenii Lukashov github stats" />
