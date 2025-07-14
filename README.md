@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
 <h3 align="center">🎓 Forever curious! Crafting intuitive web apps with clean code, robust backend, and engaging UX.</h3>
 <br>
 <div align="center">
