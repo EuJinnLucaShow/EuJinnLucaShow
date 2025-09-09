@@ -1,5 +1,5 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
-<h3 align="center">🎓 Forever curious! Crafting intuitive web apps with clean code, robust backend, and engaging UX.</h3>
+<h3 align="center">🎓 Forever improving! Create intuitive web applications with clean code, a reliable backend, and user-friendly UX.</h3>
 <br>
 <div align="center">
   <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api/top-langs/?username=EuJinnLucaShow&layout=compact&theme=dark&hide_border=true" />
