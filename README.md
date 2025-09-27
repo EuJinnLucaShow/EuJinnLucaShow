@@ -1,12 +1,6 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
 <h3 align="center"><span>🎓 Forever improving.</span><br> <br> <span>I create scalable and maintainable web applications with clean architecture, reliable backend,<br> and user-friendly UX.</span></h3>
 <br>
-<div align="center">
-  <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api/top-langs/?username=EuJinnLucaShow&layout=compact&theme=dark&hide_border=true" />
-  <img align="center" src="https://github-readme-stats-yevhenii-lukashovs-projects.vercel.app/api?username=EuJinnLucaShow&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Yevhenii Lukashov github stats" />
-  <img src="https://github-readme-streak-stats-alpha-eosin.vercel.app?user=EuJinnLucaShow=&theme=dark" alt="GitHub Streak" />  
-  </div>
-
   <div align="center">  
   <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
   </div>
@@ -31,6 +25,7 @@
 | 📦 Package Mgmt    | <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/npm.svg" title="npm" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/yarn.svg" title="Yarn" width="40"/>                                                                                                                                                                                                                                                                                                                                                                               |
 | 📦 Bundlers        | <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/parsel.avif" title="Parcel" width="50"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/webpack.svg" title="Webpack" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/vite.svg" title="Vite" width="40"/>                                                                                                                                                                                                                                                 |
 | 🗃️ Databases       | <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sql.svg" title="SQL" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mysql.png" title="MySQL" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Postgresql.svg" title="PostgreSQL" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mariadb.svg" title="MariaDB" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/supabase.svg" title="Supabase" width="40"/>&nbsp;                                                             |
+
 
 
 
