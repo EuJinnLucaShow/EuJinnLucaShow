@@ -1,5 +1,5 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
-<h3 align="center"><span>🎓 Forever improving.</span><br> <br> <span>I create scalable and maintainable web applications with clean architecture, reliable backend,<br> and user-friendly UX.</span></h3>
+<h3 align="center"><span>🎓 Forever improving.</span><br> <br> <span>Multi-Tenant SaaS Architecture | TypeScript, Next.js, NestJS, PostgreSQL & AWS | Full-Stack Developer</span></h3>
 <br>
   <div align="center">  
   <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
