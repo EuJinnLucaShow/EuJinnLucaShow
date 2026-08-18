@@ -1,5 +1,7 @@
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Yevhenii Lukashov</h1>
-<h3 align="center"><span>🎓 Forever improving.</span><br> <br> <span>Multi-Tenant SaaS Architecture | TypeScript, Next.js, NestJS, PostgreSQL & AWS | Full-Stack Developer</span></h3>
+<p align="center">
+  <img src="./banner.png" alt="Yevhenii Lukashov — Building Multi-Tenant SaaS That Scales" width="100%" />
+</p>
 <br>
   <div align="center">  
   <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
@@ -25,9 +27,3 @@
 | 📦 Package Mgmt    | <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/npm.svg" title="npm" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/yarn.svg" title="Yarn" width="40"/>                                                                                                                                                                                                                                                                                                                                                                               |
 | 📦 Bundlers        | <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/parsel.avif" title="Parcel" width="50"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/webpack.svg" title="Webpack" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/vite.svg" title="Vite" width="40"/>                                                                                                                                                                                                                                                 |
 | 🗃️ Databases       | <img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mongodb.svg" title="MongoDB" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/sql.svg" title="SQL" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mysql.png" title="MySQL" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/Postgresql.svg" title="PostgreSQL" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/mariadb.svg" title="MariaDB" width="40"/>&nbsp;<img src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/supabase.svg" title="Supabase" width="40"/>&nbsp;                                                             |
-
-
-
-
-
-
